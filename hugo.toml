@@ -85,8 +85,8 @@ pygmentsUseClasses = true
     url = "https://stackoverflow.com"
 
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/"
+    name = "rss"
+    url = "index.xml"
 
 [params.analytics.google]
   SiteVerificationTag = "XYZabc"
