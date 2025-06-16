@@ -21,13 +21,6 @@
       <description>Hugo PaperMod主题个性化修改美化总结</description>
     </item>
     <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Sun, 15 Jun 2025 11:56:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>&lt;p&gt;Test~ Hello!&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>第二篇</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Sun, 15 Jun 2025 11:28:53 +0800</pubDate>

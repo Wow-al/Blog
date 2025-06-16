@@ -3,6 +3,7 @@ date = '2025-06-16T13:10:00+08:00'
 tags = ["PaperMod主题"]
 title = 'Hugo PaperMod主题个性化修改美化总结'
 description = 'Hugo PaperMod主题个性化修改美化总结'
+ShowToc= true
 +++
 ## 前言
 
@@ -44,7 +45,66 @@ description = 'Hugo PaperMod主题个性化修改美化总结'
 ```
 
 ## 字体
-可以参考 [Yunpeng Tai](https://yunpengtai.top/posts/hugo-journey/#%e5%ad%97%e4%bd%93) 
+可以参考 [Yunpeng Tai](https://yunpengtai.top/posts/hugo-journey/#%e5%ad%97%e4%bd%93) ，真的很方便！
+
+## 版权声明 & 隐私政策
+
+下面以版权声明为例，其他页面同理
+
+1. 新建 layouts/copyright/single.html
+
+```
+{{ define "main" }}
+<main id="main" class="main-content" role="main">
+  <article class="post-single">
+    <header class="post-header">
+      <h1 class="post-title">{{ .Title }}</h1>
+    </header>
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+</main>
+{{ end }}
+```
+
+2. 新建 content/copyright.md
+
+```
+---
+title: "版权声明"
+url: "/copyright/"
+layout: "copyright"
+summary: copyright
+---
+
+本博客（**Avery's Blog**）所有原创内容采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议共享。
+
+欢迎在注明来源的前提下非商业转载，禁止用于 AI 模型训练及商业用途。
+```
+3. 复制 themes/PaperMod/layouts/partials/footer.html 的文件
+
+把它放到你的 layouts/partials/footer.html 中并将第一部分区域替换为下方所示
+
+```
+{{- if not (.Param "hideFooter") }}
+<footer class="footer">
+    <span>&copy; {{ now.Year }} <a href="/about/">Avery</a></span>
+    <span>·&nbsp;<a href="/privacy/">隐私政策</a></span>
+    <span>·&nbsp;<a href="/copyright/">版权说明</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/loyayz/hugo-PaperModx/" rel="noopener" target="_blank">PaperModx</a>
+    </span>
+
+</footer>
+{{- end }}
+```
+即可在站点的页脚处看到，任务完成！
+
+
 
 
 

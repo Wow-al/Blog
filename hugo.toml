@@ -75,8 +75,8 @@ pygmentsUseClasses = true
       url = "tags"
 
   [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog"
+    Title = "你好呀👋"
+    Content = "欢迎来到这里，我是一名学生、博主"
 
   [[params.socialIcons]]
     name = "x"
