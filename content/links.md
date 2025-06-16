@@ -1,14 +1,21 @@
 ---
-title: "友情链接"
+title: "友链"
+date: 2025-06-16
 layout: "links"
-subtitle: "以下是我的朋友们"
-links:
-  - name: Alan's Blog
-    url: "https://example.com"
-    desc: "分享技术与生活的个人博客"
-  - name: 小王的花园
-    url: "https://garden.example"
-    desc: "记录平凡又闪光的每一天"
 ---
 
-欢迎交换友链，留言或发邮件联系我哦！
+欢迎交换友情链接！
+
+请在留言板或邮件中提供以下信息：
+
+- 网站名称：
+- 网站链接：
+- 网站简介：
+
+---
+
+### 🤝 我的朋友们：
+
+- [示例博客](https://example.com) — 简洁优雅的技术博客。
+- [Another Site](https://another.com) — 分享有趣见闻和生活。
+
