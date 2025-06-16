@@ -139,7 +139,7 @@ pygmentsUseClasses = true
 [[menu.main]]
   identifier = "friends"
   name = "友人"
-  url = "/friends/"
+  url = "/links/"
   weight = 22
 
 [[menu.main]]
