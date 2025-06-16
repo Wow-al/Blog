@@ -1,0 +1,11 @@
+<div style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="{{ .Get "image" }}" alt="{{ .Get "name" }} 的头像" width="48" height="48" style="border-radius: 50%; margin-right: 1rem;" loading="lazy">
+  <div>
+    <div style="font-weight: bold;">
+      <a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        {{ .Get "name" }}
+      </a>
+    </div>
+    <div style="color: #666; font-size: 0.9rem;">{{ .Get "description" }}</div>
+  </div>
+</div>

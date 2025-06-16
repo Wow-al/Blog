@@ -5,9 +5,24 @@
       <h1 class="post-title">{{ .Title }}</h1>
     </header>
 
-    <div class="post-content">
-      {{ .Content }}
+     <div class="post-content">
+      <div class="friend-grid">
+        {{ .Content }}
+      </div>
     </div>
+
+    <div id="tcomment"></div>
+    <script src="https://cdn.jsdelivr.net/npm/twikoo@{{ .Site.Params.twikoo.version }}/dist/twikoo.all.min.js"></script>
+    <script>
+        twikoo.init({
+            envId: "https://comments.averyc.top",  //这里填写自己的envId
+            el: "#tcomment",
+            lang: 'zh-CN',
+            region: 'ap-ap-shanghai',  //默认是ap-shanghai
+            path: 'window.TWIKOO_MAGIC_PATH||window.location.pathname',
+        });
+    </script>
+
   </article>
 </main>
 {{ end }}

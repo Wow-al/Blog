@@ -40,6 +40,8 @@ pygmentsUseClasses = true
   showtoc = false
   tocopen = false
 
+  extraCSS = ["css/extra.css"]
+
   [params.twikoo]
     version = "1.6.42"  # 版本号需要和你实际使用的 twikoo 版本对应
 
@@ -51,13 +53,13 @@ pygmentsUseClasses = true
     safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-    text = "Home"
+    text = "Avery's Blog"
     icon = "/apple-touch-icon.png"
     iconHeight = 35
 
   [params.profileMode]
     enabled = false
-    title = "ExampleSite"
+    title = "Avery's Blog"
     subtitle = "This is subtitle"
     imageUrl = "<img location>"
     imageWidth = 120
@@ -132,7 +134,7 @@ pygmentsUseClasses = true
 
 [[menu.main]]
   identifier = "tags"
-  name = "tags"
+  name = "标签"
   url = "/tags/"
   weight = 20
 

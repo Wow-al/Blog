@@ -18,19 +18,51 @@
       <link>http://localhost:1313/links/</link>
       <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/links/</guid>
-      <description>&lt;p&gt;欢迎交换友情链接！&lt;/p&gt;
-&lt;p&gt;请在留言板或邮件中提供以下信息：&lt;/p&gt;
+      <description>&lt;p&gt;欢迎交换友情链接！💌&lt;/p&gt;
+&lt;p&gt;请通过 &lt;strong&gt;留言板&lt;/strong&gt; 或 &lt;strong&gt;邮件&lt;/strong&gt; 提供以下信息：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;网站名称：&lt;/li&gt;
-&lt;li&gt;网站链接：&lt;/li&gt;
-&lt;li&gt;网站简介：&lt;/li&gt;
+&lt;li&gt;网站名称&lt;/li&gt;
+&lt;li&gt;网站链接&lt;/li&gt;
+&lt;li&gt;网站简介&lt;/li&gt;
+&lt;li&gt;网站头像链接（URL）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;-我的朋友们&#34;&gt;🤝 我的朋友们：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com&#34;&gt;示例博客&lt;/a&gt; — 简洁优雅的技术博客。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://another.com&#34;&gt;Another Site&lt;/a&gt; — 分享有趣见闻和生活。&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h3 id=&#34;-我的朋友们&#34;&gt;🤝 我的朋友们&lt;/h3&gt;
+&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 1rem;&#34;&gt;
+  &lt;img src=&#34;https://alice.example.com/avatar.jpg&#34; alt=&#34;Alice 的头像&#34; width=&#34;48&#34; height=&#34;48&#34; style=&#34;border-radius: 50%; margin-right: 1rem;&#34; loading=&#34;lazy&#34;&gt;
+  &lt;div&gt;
+    &lt;div style=&#34;font-weight: bold;&#34;&gt;
+      &lt;a href=&#34;https://alice.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+        Alice
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;color: #666; font-size: 0.9rem;&#34;&gt;热爱设计的前端开发者&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 1rem;&#34;&gt;
+  &lt;img src=&#34;https://bob.example.com/avatar.png&#34; alt=&#34;Bob 的头像&#34; width=&#34;48&#34; height=&#34;48&#34; style=&#34;border-radius: 50%; margin-right: 1rem;&#34; loading=&#34;lazy&#34;&gt;
+  &lt;div&gt;
+    &lt;div style=&#34;font-weight: bold;&#34;&gt;
+      &lt;a href=&#34;https://bob.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+        Bob
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;color: #666; font-size: 0.9rem;&#34;&gt;记录生活与灵感的博客&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;display: flex; align-items: center; margin-bottom: 1rem;&#34;&gt;
+  &lt;img src=&#34;https://charlie.example.com/avatar.webp&#34; alt=&#34;Charlie 的头像&#34; width=&#34;48&#34; height=&#34;48&#34; style=&#34;border-radius: 50%; margin-right: 1rem;&#34; loading=&#34;lazy&#34;&gt;
+  &lt;div&gt;
+    &lt;div style=&#34;font-weight: bold;&#34;&gt;
+      &lt;a href=&#34;https://charlie.example.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; style=&#34;text-decoration: none; color: inherit;&#34;&gt;
+        Charlie
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div style=&#34;color: #666; font-size: 0.9rem;&#34;&gt;专注于独立游戏和创意写作&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>My Third Post</title>
@@ -57,13 +89,6 @@
       <description>&lt;p&gt;Hello! This is my first post!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Copyright</title>
-      <link>http://localhost:1313/copyright/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/copyright/</guid>
-      <description>copyright</description>
-    </item>
-    <item>
       <title>关于我</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,6 +101,13 @@
 &lt;li&gt;📮 &lt;a href=&#34;http://localhost:1313/guestbook/&#34;&gt;留言板&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;感谢你的来访，也欢迎你常来看看。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>版权声明</title>
+      <link>http://localhost:1313/copyright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/copyright/</guid>
+      <description>copyright</description>
     </item>
     <item>
       <title>留言板</title>
@@ -91,20 +123,35 @@
       <link>http://localhost:1313/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;感谢您访问本网站。在您使用本站服务前，请仔细阅读我们的隐私政策。&lt;/p&gt;
+      <description>&lt;p&gt;感谢您访问本网站。在您使用本站服务前，请仔细阅读本隐私政策。&lt;/p&gt;
 &lt;h2 id=&#34;1-数据收集&#34;&gt;1. 数据收集&lt;/h2&gt;
-&lt;p&gt;本网站不会主动收集您的个人信息。您在评论时填写的昵称、邮箱等信息仅用于展示，不作其他用途。&lt;/p&gt;
+&lt;p&gt;本站不会主动收集您的任何个人信息。&lt;/p&gt;
+&lt;p&gt;您在使用评论功能（Twikoo）时所填写的昵称、邮箱地址（可选）仅用于展示及防止滥用，我们不会将其用于任何商业用途。&lt;/p&gt;
+&lt;p&gt;统计系统 Umami 可能会记录一些匿名的使用数据，例如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;访问页面路径&lt;/li&gt;
+&lt;li&gt;浏览器类型、操作系统信息&lt;/li&gt;
+&lt;li&gt;访问时间、来源链接&lt;/li&gt;
+&lt;li&gt;匿名化的 IP 地址（用于基础统计分析）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些信息仅用于改善网站内容与用户体验。&lt;/p&gt;
 &lt;h2 id=&#34;2-第三方服务&#34;&gt;2. 第三方服务&lt;/h2&gt;
-&lt;p&gt;本网站可能接入第三方服务，如评论系统 Twikoo、统计系统 Umami。这些服务可能会收集匿名使用数据，例如浏览器类型、访问页面等。&lt;/p&gt;
-&lt;p&gt;我们不掌控这些服务的具体数据收集行为，具体请参考它们各自的隐私政策。&lt;/p&gt;
+&lt;p&gt;本博客集成了以下第三方服务：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Twikoo&lt;/strong&gt;：用于评论功能，数据存储于部署平台（如 Vercel、自建服务器等）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Umami&lt;/strong&gt;：一个无 Cookie 的轻量级分析工具，仅收集匿名统计数据&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们不掌控这些服务的具体行为，具体请参考它们的隐私政策。&lt;/p&gt;
 &lt;h2 id=&#34;3-cookie-使用&#34;&gt;3. Cookie 使用&lt;/h2&gt;
-&lt;p&gt;本站本身不使用 Cookie。但如您启用评论或统计功能，第三方服务可能会设置 Cookie。&lt;/p&gt;
+&lt;p&gt;本站本身不使用 Cookie。&lt;/p&gt;
+&lt;p&gt;但若您使用评论功能，&lt;strong&gt;Twikoo 可能会设置本地存储（localStorage）或 Cookie&lt;/strong&gt;，用于保存昵称/邮箱等以便下次评论时自动填写。这些信息仅保存在您自己的浏览器中，本站不会访问或收集。&lt;/p&gt;
 &lt;h2 id=&#34;4-数据安全&#34;&gt;4. 数据安全&lt;/h2&gt;
-&lt;p&gt;本站不保存您的评论数据，仅作为展示用途。所有数据托管在第三方服务平台上。&lt;/p&gt;
+&lt;p&gt;本博客不会存储您的评论或访问数据，所有数据均托管于相应的第三方平台。我们不分享、不出售您的任何信息。&lt;/p&gt;
 &lt;h2 id=&#34;5-政策更新&#34;&gt;5. 政策更新&lt;/h2&gt;
-&lt;p&gt;若隐私政策有任何变更，我们会在本页及时更新。建议您定期查看。&lt;/p&gt;
+&lt;p&gt;如果隐私政策有任何变更，我们会在本页及时更新。建议您定期查看以了解相关内容。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;如对本政策有任何疑问，欢迎通过 &lt;a href=&#34;http://localhost:1313/guestbook/&#34;&gt;留言板&lt;/a&gt; 或邮件与我们联系。&lt;/p&gt;</description>
+&lt;p&gt;如对本政策有任何疑问，欢迎通过 &lt;a href=&#34;http://localhost:1313/guestbook/&#34;&gt;留言板&lt;/a&gt; 或邮件与我们联系。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Last updated: 2025-06-16&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
