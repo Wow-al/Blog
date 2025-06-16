@@ -11,12 +11,57 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 13:10:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo PaperMod主题个性化修改美化总结</title>
+      <link>http://localhost:1313/posts/how-to-beautify-your-hugo-papermod-site/</link>
+      <pubDate>Mon, 16 Jun 2025 13:10:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/how-to-beautify-your-hugo-papermod-site/</guid>
+      <description>Hugo PaperMod主题个性化修改美化总结</description>
+    </item>
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sun, 15 Jun 2025 11:56:24 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;Test~ Hello!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第二篇</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Sun, 15 Jun 2025 11:28:53 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;这是我的第二篇文章！！&lt;/p&gt;
+&lt;p&gt;天天开心&lt;/p&gt;
+&lt;p&gt;天天开心&lt;/p&gt;
+&lt;p&gt;天天开心&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 15 Jun 2025 11:19:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello! This is my first post!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;你好，欢迎来到我的博客！&lt;/p&gt;
+&lt;p&gt;我是一个对文字、技术和世界充满好奇的人。这是我的个人博客，用来记录我的所思所想、生活瞬间、项目探索和阅读感悟。&lt;/p&gt;
+&lt;p&gt;我相信文字可以留下痕迹，分享也能激发彼此。&lt;/p&gt;
+&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📮 &lt;a href=&#34;http://localhost:1313/guestbook/&#34;&gt;留言板&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;感谢你的来访，也欢迎你常来看看。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>友链</title>
       <link>http://localhost:1313/links/</link>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/links/</guid>
       <description>&lt;p&gt;欢迎交换友情链接！💌&lt;/p&gt;
 &lt;p&gt;请通过 &lt;strong&gt;留言板&lt;/strong&gt; 或 &lt;strong&gt;邮件&lt;/strong&gt; 提供以下信息：&lt;/p&gt;
@@ -63,44 +108,6 @@
     &lt;div style=&#34;color: #666; font-size: 0.9rem;&#34;&gt;专注于独立游戏和创意写作&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Sun, 15 Jun 2025 11:56:24 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description>&lt;p&gt;Test~ Hello!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>第二篇</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Sun, 15 Jun 2025 11:28:53 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;这是我的第二篇文章！！&lt;/p&gt;
-&lt;p&gt;天天开心&lt;/p&gt;
-&lt;p&gt;天天开心&lt;/p&gt;
-&lt;p&gt;天天开心&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 15 Jun 2025 11:19:13 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello! This is my first post!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>关于我</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;你好，欢迎来到我的博客！&lt;/p&gt;
-&lt;p&gt;我是一个对文字、技术和世界充满好奇的人。这是我的个人博客，用来记录我的所思所想、生活瞬间、项目探索和阅读感悟。&lt;/p&gt;
-&lt;p&gt;我相信文字可以留下痕迹，分享也能激发彼此。&lt;/p&gt;
-&lt;h3 id=&#34;联系我&#34;&gt;联系我&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;📮 &lt;a href=&#34;http://localhost:1313/guestbook/&#34;&gt;留言板&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;感谢你的来访，也欢迎你常来看看。&lt;/p&gt;</description>
     </item>
     <item>
       <title>版权声明</title>

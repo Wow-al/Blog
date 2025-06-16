@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-16T13:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/how-to-beautify-your-hugo-papermod-site/</loc>
+    <lastmod>2025-06-16T13:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-third-post/</loc>
-    <lastmod>2025-06-15T11:56:24+08:00</lastmod>
+    <loc>http://localhost:1313/tags/papermod%E4%B8%BB%E9%A2%98/</loc>
+    <lastmod>2025-06-16T13:10:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-16T13:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-16T13:10:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/my-third-post/</loc>
     <lastmod>2025-06-15T11:56:24+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-second-post/</loc>
@@ -22,9 +28,9 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/links/</loc>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
