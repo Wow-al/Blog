@@ -55,6 +55,9 @@ pygmentsUseClasses = true
     apple_touch_icon = "<link / abs url>"
     safari_pinned_tab = "<link / abs url>"
 
+    customHead = ["google-verify.html"]
+  
+
   [params.label]
     text = "Avery's Blog"
     icon = "/apple-touch-icon.png"
