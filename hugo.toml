@@ -45,6 +45,9 @@ pygmentsUseClasses = true
   [params.twikoo]
     version = "1.6.42"  # 版本号需要和你实际使用的 twikoo 版本对应
 
+  env = "production"  # 或 "development"，取决于你
+  ShowSearch = true
+
   [params.assets]
     favicon = "<link / abs url>"
     favicon16x16 = "<link / abs url>"
@@ -152,3 +155,6 @@ pygmentsUseClasses = true
 
 [markup.highlight]
   noClasses = false
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
