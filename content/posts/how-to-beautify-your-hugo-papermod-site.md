@@ -33,7 +33,7 @@ ShowToc= true
             el: "#tcomment",
             lang: 'zh-CN',
             region: 'ap-shanghai',  
-            path: 'window.TWIKOO_MAGIC_PATH||window.location.pathname',
+            path: '{{ .Permalink | absLangURL }}',
         });
     </script>
 </div>
