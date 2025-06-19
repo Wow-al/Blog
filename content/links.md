@@ -4,6 +4,7 @@ layout: "links"
 ---
 
 欢迎交换友情链接！💌
+我会常来串串门的！
 
 请通过 **留言板** 或 **邮件** 提供以下信息：
 
@@ -16,9 +17,7 @@ layout: "links"
 
 ### 🤝 我的朋友们
 
-{{< friend name="Alice" url="https://alice.example.com" image="https://alice.example.com/avatar.jpg" description="热爱设计的前端开发者" >}}
+{{< friend name="" url="" image="" description="" >}}
 
-{{< friend name="Bob" url="https://bob.example.com" image="https://bob.example.com/avatar.png" description="记录生活与灵感的博客" >}}
 
-{{< friend name="Charlie" url="https://charlie.example.com" image="https://charlie.example.com/avatar.webp" description="专注于独立游戏和创意写作" >}}
 
