@@ -12,7 +12,7 @@
             el: "#tcomment",
             lang: 'zh-CN',
             region: 'ap-ap-shanghai',  //默认是ap-shanghai
-            path: location.pathname,
+            path: '{{ .Permalink | absLangURL }}',
         });
     </script>
 </div>
