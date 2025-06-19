@@ -86,9 +86,6 @@ pygmentsUseClasses = true
     name = "x"
     url = "https://x.com/"
 
-  [[params.socialIcons]]
-    name = "stackoverflow"
-    url = "https://stackoverflow.com"
 
   [[params.socialIcons]]
     name = "rss"
