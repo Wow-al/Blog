@@ -5,6 +5,8 @@ title = 'Hugo PaperMod主题个性化修改美化总结'
 description = 'Hugo PaperMod主题个性化修改美化总结'
 keywords = ["Hugo", "博客", "美化", "Papermod主题"]
 ShowToc= true
+lastmod = '2025-06-21T00:40:08+08:00'
+ShowLastMod = true
 +++
 ## 前言
 
@@ -104,6 +106,15 @@ summary: copyright
 {{- end }}
 ```
 即可在站点的页脚处看到，任务完成！
+
+## 优化中文内容的字数统计
+
+在 hugo.toml 中添加即可
+
+```
+[languages. zh-CN] 
+hasCJKLanguage =true 
+```
 
 
 

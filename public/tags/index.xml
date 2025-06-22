@@ -10,21 +10,21 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 18 Jun 2025 22:00:00 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 21 Jun 2025 00:40:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>假期</title>
-      <link>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</link>
-      <pubDate>Wed, 18 Jun 2025 22:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</guid>
-      <description></description>
-    </item>
     <item>
       <title>法语</title>
       <link>http://localhost:1313/tags/%E6%B3%95%E8%AF%AD/</link>
       <pubDate>Wed, 18 Jun 2025 22:00:00 +0800</pubDate>
       <guid>http://localhost:1313/tags/%E6%B3%95%E8%AF%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>假期</title>
+      <link>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</link>
+      <pubDate>Wed, 18 Jun 2025 22:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/%E5%81%87%E6%9C%9F/</guid>
       <description></description>
     </item>
     <item>
