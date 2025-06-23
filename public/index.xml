@@ -10,7 +10,7 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
-    <language>zh-cn</language>
+    <language>en</language>
     <lastBuildDate>Sat, 21 Jun 2025 00:40:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -35,18 +35,35 @@
       <description>&lt;p&gt;Hello! This is my first post!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>版权声明</title>
-      <link>http://localhost:1313/copyright/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/copyright/</guid>
-      <description>copyright</description>
-    </item>
-    <item>
       <title>关于我</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>一个安静分享想法的角落</description>
+    </item>
+    <item>
+      <title>友链</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;p&gt;欢迎交换友情链接！💌
+我会常来串串门的！&lt;/p&gt;
+&lt;p&gt;请通过此页面提供以下信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;网站名称&lt;/li&gt;
+&lt;li&gt;网站链接&lt;/li&gt;
+&lt;li&gt;网站简介&lt;/li&gt;
+&lt;li&gt;网站头像链接（URL）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;❤️我们推荐你在下方评论提交信息前将本站纳入你的友链范围&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>版权声明</title>
+      <link>http://localhost:1313/copyright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/copyright/</guid>
+      <description>copyright</description>
     </item>
     <item>
       <title>留言板</title>
@@ -66,23 +83,6 @@
 &lt;h2 id=&#34;1-数据收集&#34;&gt;1. 数据收集&lt;/h2&gt;
 &lt;p&gt;本站不会主动收集您的任何个人信息。&lt;/p&gt;
 &lt;p&gt;您在使用评论功能（Twikoo）时所填写的昵称、邮箱地址仅用于展示及防止滥用，我们不会将其用于任何商业用途。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>友链</title>
-      <link>http://localhost:1313/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description>&lt;p&gt;欢迎交换友情链接！💌
-我会常来串串门的！&lt;/p&gt;
-&lt;p&gt;请通过此页面提供以下信息：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;网站名称&lt;/li&gt;
-&lt;li&gt;网站链接&lt;/li&gt;
-&lt;li&gt;网站简介&lt;/li&gt;
-&lt;li&gt;网站头像链接（URL）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;❤️我们推荐你在下方评论提交信息前将本站纳入你的友链范围&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
