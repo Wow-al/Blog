@@ -5,7 +5,7 @@ title = 'Hugo PaperMod主题个性化修改美化总结'
 description = 'Hugo PaperMod主题个性化修改美化总结'
 keywords = ["Hugo", "博客", "美化", "Papermod主题"]
 ShowToc= true
-lastmod = '2025-06-21T00:40:08+08:00'
+lastmod = '2025-06-24'
 ShowLastMod = true
 +++
 ## 前言
@@ -43,8 +43,8 @@ ShowLastMod = true
 3. 在站点配置文件 hugo.toml 中加上你的 Twikoo 版本号
 
 ```
-[params.twikoo]
-    version = "1.6.42"  # 版本号需要和你实际使用的 twikoo 版本对应
+twikoo:
+    version: "1.6.42"
 ```
 
 ## 字体
@@ -112,11 +112,39 @@ summary: copyright
 在 hugo.toml 中添加即可
 
 ```
-[languages. zh-CN] 
 hasCJKLanguage =true 
 ```
+## 添加文章 “修改时间”（更新日期）的功能
 
+我这里使用的是可以手动添加文章更新日期的方式，如下：
 
+在 hugo.yaml 中加入
+```
+frontmatter:
+    lastmod:
+        - lastmod
+        - :default
+ShowLastMod: true
+```
+在 layouts/partials/post_meta.html 中加入
+```
+{{ $date := .Date.Format "02.01.2006" }}
+{{ $lastmod := .Lastmod.Format "02.01.2006" }}
+
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "2006-01-02" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- if ne $lastmod $date -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>(updated %s)</span>" (.Lastmod) (.Lastmod | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- end }}
+```
+在文章中加入修改日期即可
+```
+lastmod = '2025-06-21T00:40:08+08:00'
+```
 
 
 
