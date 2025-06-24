@@ -145,7 +145,7 @@ ShowLastMod: true
 ```
 lastmod = '2025-06-21T00:40:08+08:00'
 ```
-
+参考 [Jackson Lucky](https://www.jacksonlucky.net/posts/use-lastmod-with-papermod/) ，如果需要使用 Git 作为修改日期的依据的话。
 
 
 
