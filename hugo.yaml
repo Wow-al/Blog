@@ -22,7 +22,7 @@ params:
   author: Avery
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 Jan 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -82,8 +82,6 @@ params:
   socialIcons:
     - name: x
       url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: rss
       url: "index.xml"
 
@@ -97,13 +95,13 @@ params:
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
     URL: "/guestbook/"
     Text: "Report" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
