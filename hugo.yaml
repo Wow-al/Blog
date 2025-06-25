@@ -41,6 +41,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  ShowSearch: true
 
   twikoo:
     version: "1.6.42"
@@ -156,3 +157,8 @@ frontmatter:
         - :default
 ShowLastMod: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
