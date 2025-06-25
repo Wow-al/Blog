@@ -12,6 +12,10 @@ ShowLastMod = true
 
 在使用 Hugo PaperMod 主题后，能发现为了达到站点的一些特定的需求，需要做一些个性化的修改。为了让页面更加个性化，本站点参考了一些其他站点的修改方式。那么，本篇文章将重点聚焦一些常用功能的引入和界面的美化，会通过引入一部分相当有价值的链接进行说明，亲测有效。
 
+## 需知
+
+强烈推荐你将默认的 hugo.toml 文件改为 hugo.yaml 这一格式！！
+
 ## 引入 Twikoo 评论系统
 
 1. 先在 hugo.toml 开启 comments = true
@@ -40,7 +44,7 @@ ShowLastMod = true
     </script>
 </div>
 ```
-3. 在站点配置文件 hugo.toml 中加上你的 Twikoo 版本号
+3. 在站点配置文件 hugo.yaml 中加上你的 Twikoo 版本号
 
 ```
 twikoo:
@@ -109,7 +113,7 @@ summary: copyright
 
 ## 优化中文内容的字数统计
 
-在 hugo.toml 中添加即可
+在 hugo.yaml 中添加即可
 
 ```
 hasCJKLanguage =true 
