@@ -6,7 +6,6 @@ cover:
   image: "/images/covers/A0.JPG"  # 支持相对路径或绝对路径
   alt: "封面描述"
   caption: "这些天 | 出分前的忙碌"
-
 ---
 
 我幻想的：在家、空调、惬意、互联网与满足
