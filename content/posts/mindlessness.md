@@ -17,7 +17,7 @@ title: '这些天 | 浮躁、蓝图与轻舟'
 半山腰炎热，仅有的喘息声此消彼长，\
 山脚树荫遮蔽，嬉笑声回荡其中，喧闹不停
 
-![A1.jpg](https://postimg.cc/NLmZktR3)
+![A1.jpg](https://i.postimg.cc/bYB88Nrw/A1.jpg)
 
 同一时空，过往、现实与幻想交织在一起，\
 伸手触碰，\
