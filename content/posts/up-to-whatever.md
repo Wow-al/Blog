@@ -3,7 +3,7 @@ tags: ['专业', '假期']
 date: '2025-06-24'
 title: '这些天 | 出分前的忙碌'
 cover:
-  image: "https://i.postimg.cc/7hqs7zKy/A0.jpg"  # 支持相对路径或绝对路径
+  image: "/images/covers/A0.JPG"  # 支持相对路径或绝对路径
   alt: "封面描述"
   caption: "这些天 | 出分前的忙碌"
 ---
