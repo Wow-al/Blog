@@ -1,6 +1,7 @@
 ---
 title: "友链"
 layout: "links"
+searchHidden: true
 ---
 
 欢迎交换友情链接！💌

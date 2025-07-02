@@ -2,6 +2,7 @@
 title: "留言板"
 layout: "guestbook"
 description:: "随便说点什么吧"
+searchHidden: true
 ---
 
 欢迎来到留言板！

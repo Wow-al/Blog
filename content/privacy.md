@@ -2,6 +2,7 @@
 title: "隐私政策"
 layout: "privacy"
 description:: "我们尊重并保护您的隐私"
+searchHidden: true
 ---
 
 感谢您访问本网站。在您使用本站服务前，请仔细阅读本隐私政策。

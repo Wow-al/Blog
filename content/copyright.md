@@ -4,6 +4,7 @@ url: "/copyright/"
 layout: "copyright"
 summary: copyright
 comments: false
+searchHidden: true
 ---
 
 
