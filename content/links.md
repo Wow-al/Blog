@@ -17,9 +17,9 @@ searchHidden: true
 > ❤️我们推荐你在下方评论提交信息前将本站纳入你的友链范围
 ---
 
-### 🤝 我的朋友们
+### 🤝
 
-{{< friend name="" url="" image="" description="" >}}
+{{< friend name="西瓜撞地球" url="https://www.bio-w.cn/" image="https://www.bio-w.cn/img/avatar.jpg" description="" >}}
 
 ---
 
