@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌱幼苗成长记</title>
+      <link>http://localhost:1313/posts/witnessing-its-growth/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/witnessing-its-growth/</guid>
+      <description>&lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
+&lt;p&gt;最近家里阳台上刚好有两盆土，原先的那个桶破了，土呢也板结了，把那些土疏松过后用俩塑料容器装起来了，显得挺空的（虽然都有一两个苗种着），所以刚好我把剩下的荔枝核筛选后取两个种下了（..其实就是单纯想尝试种一种啦）&lt;br&gt;
+按照 ChatGPT 给的指引做了，在这里放个种植日记记录一下📸&lt;/p&gt;</description>
+    </item>
     <item>
       <title>加入 Umami 自托管统计服务</title>
       <link>http://localhost:1313/posts/the-introduction-of-umami/</link>
@@ -32,8 +41,8 @@
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/fill-in-the-blanks/</guid>
       <description>&lt;h2 id=&#34;头等任务&#34;&gt;头等任务&lt;/h2&gt;
-&lt;p&gt;某天..?&lt;br&gt;
-疲倦了，六点多给自己下了一碗面吃，查资料填志愿一个半小时后就又有点饿了&amp;hellip;吃了个甜粽子&lt;/p&gt;
+&lt;p&gt;某天..&lt;br&gt;
+疲倦，六点多给自己下了一碗面吃，查资料填志愿一个半小时后就又有点饿了&amp;hellip;吃了个甜粽子&lt;/p&gt;
 &lt;h2 id=&#34;刷剧--电影&#34;&gt;刷剧 &amp;amp; 电影&lt;/h2&gt;
 &lt;p&gt;《哈利·波特与阿兹卡班的囚徒》，这部电影我之前看过，距离现在也很久了，所以再刷一次&lt;/p&gt;</description>
     </item>
@@ -67,7 +76,7 @@
       <description>&lt;p&gt;嗯&amp;hellip;想了一下还是决定以这个主题作为我的博客的第一篇个人生活类的文章，原因无外乎学会法语是我自初中以来一直想要实现的事，那么现在作为一个准大一，这最自由的三个月无疑是最合适的。写这篇文章也能算是一个富有仪式感的法语学习之旅的正式开始吧，由我亲笔撰写并发布在自己的个人博客上，是件很酷的事耶。那么，正文开始！&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hugo PaperMod主题个性化修改美化总结</title>
+      <title>Hugo PaperMod 主题个性化修改美化总结</title>
       <link>http://localhost:1313/posts/how-to-beautify-your-hugo-papermod-site/</link>
       <pubDate>Mon, 16 Jun 2025 13:10:00 +0800</pubDate>
       <guid>http://localhost:1313/posts/how-to-beautify-your-hugo-papermod-site/</guid>

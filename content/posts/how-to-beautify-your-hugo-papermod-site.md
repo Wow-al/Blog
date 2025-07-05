@@ -1,7 +1,7 @@
 +++
 date = '2025-06-16T13:10:00+08:00'
 tags = ["PaperMod主题"]
-title = 'Hugo PaperMod主题个性化修改美化总结'
+title = 'Hugo PaperMod 主题个性化修改美化总结'
 description = 'Hugo PaperMod主题个性化修改美化总结'
 keywords = ["Hugo", "博客", "美化", "Papermod主题"]
 ShowToc= true

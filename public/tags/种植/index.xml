@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>种植 on Avery&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E7%A7%8D%E6%A4%8D/</link>
+    <description>Recent content in 种植 on Avery&#39;s Blog</description>
+    <image>
+      <title>Avery&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A7%8D%E6%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌱幼苗成长记</title>
+      <link>http://localhost:1313/posts/witnessing-its-growth/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/witnessing-its-growth/</guid>
+      <description>&lt;p&gt;最近家里阳台上刚好有两盆土，原先的那个桶破了，土呢也板结了，把那些土疏松过后用俩塑料容器装起来了，显得挺空的（虽然都有一两个苗种着），所以刚好我把剩下的荔枝核筛选后取两个种下了（其实就是单纯想种来试试）按照 ChatGPT 给的指引做了，在这里放个种植日记记录一下&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
